@@ -13,4 +13,4 @@ bash
 コードをコピーする
 trainingapp/
 ├── backend/    # Spring Boot APIサーバー
-├── flontend/   # React フロントエンド（← typoに注意：frontend が正しい）
+├── frontend/   # React フロントエンド

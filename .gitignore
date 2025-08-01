@@ -1,0 +1,19 @@
+# === Java / Spring Boot ===
+/backend/target/
+*.class
+*.jar
+/backend/.env
+
+# === Node.js / React ===
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+
+# === OSごとの一時ファイル ===
+.DS_Store
+Thumbs.db
+
+# === IDE ===
+*.iml
+.idea/
+.vscode/

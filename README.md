@@ -12,16 +12,16 @@
 ## 画面イメージ
 
 ### ログイン画面
-![Login Screen](./photo/ログイン画面.png)
+![Login Screen](./photo/login_screen.png)
 
 ### 新規ユーザー登録画面
-![Register Form](./photo/ユーザー新規登録画面.png)
+![Register Form](./photo/newuser_regster.png)
 
 ### トレーニング登録画面
-![Workout Form](./photo/トレーニング記録登録画面.png)
+![Workout Form](./photo/workout_register.png)
 
 ### トレーニング一覧画面
-![Workout List](./photo/トレーニング一覧画面.png)
+![Workout List](./photo/workoutlist.png)
 
 ## ディレクトリ構成
 
